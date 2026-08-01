@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Oumniya Moutaouakil
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#4F8EF7">Oumniya Moutaouakil</span></h1>
 
 > 🎓 Master's Graduate in **Advanced Machine Learning & Multimedia Intelligence** at FSDM
 > 💡 Passionate about **Agentic AI, RAG Systems, & MLOps**
