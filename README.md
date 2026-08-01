@@ -50,7 +50,40 @@ I'm an AI Engineer with a strong foundation in software development and advanced
 | 🖥️ **Systems & Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Virtualization](https://img.shields.io/badge/Virtualisation-121011?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) |
 
 ---
+## 🚀 Featured Projects
 
+| 🔹 Project | 🧠 Description | ⚙️ Tech |
+|-------------|----------------|----------|
+| [**Belgian Law Brain (Agentic RAG)**](https://github.com/oumniya03/Belgian-Law-Brain-Agentic-RAG.git) | Conception et déploiement d'un conseiller juridique de première ligne intégré à Flugia[cite: 4]. | Claude Opus 4.7, n8n, Qdrant, FastAPI, Supabase[cite: 4] |
+| [**Pentest Automatisé Hybride**](https://github.com/oumniya03/pentest-hybrid-llm-rl) | Système de pentesting autonome combinant un LLM pour la stratégie et le RL pour l'exploration[cite: 4]. | RL, LLaMA/Groq, Flask, Gymnasium[cite: 4] |
+| [**Système de Recommandation E-commerce**](https://github.com/oumniya03/project1-ecommerce-recommendation) | Pipeline DevOps/MLOps complet pour un modèle SVD avec CI/CD automatisé et orchestration K8s[cite: 4]. | MLflow, Kubernetes, FastAPI, Docker, Prometheus[cite: 4] |
+| [**RAG Q&A Chatbot**](https://github.com/oumniya03/Projet-rag) | Application Full-stack RAG pour interroger des PDF. Pipeline complet : LangChain, FAISS, LLM[cite: 4]. | FastAPI, Next.js, LangChain, FAISS, Groq API[cite: 4] |
+| [**See For Me (Image Captioning)**](https://github.com/oumniya03/SeeForMe-Image-Captioning) | Application mobile Android pour malvoyants combinant Vision par ordinateur et NLP (VGG-16 + LSTM)[cite: 4]. | PyTorch, VGG-16, DenseNet-201, LSTM, Android[cite: 4] |
+| [**Prédiction CTR Multimodale**](https://github.com/oumniya03/Projet_competition) | Modèle d'optimisation en cascade utilisant CLIP couplé à une architecture Attention + DNN[cite: 4]. | PyTorch, CLIP, Attention, DNN[cite: 4] |
+| [**Classification Déchets IoT (Edge AI)**](https://github.com/oumniya03/Waste_Classification) | Système de tri automatique avec caméra ESP32-CAM et modèle de classification sur microcontrôleur[cite: 4]. | Edge Impulse, ESP32-CAM, Arduino[cite: 4] |
+| [**Image Processing App**](https://github.com/oumniya03/image_processing) | Laboratoire interactif d'analyse visuelle en Python intégrant +20 algorithmes[cite: 4]. | OpenCV, SciPy, Tkinter, Python[cite: 4] |
+| [**Prédiction Efficacité Énergétique**](https://github.com/oumniya03/Prediction-of-Energy-Efficiency-of-Buildings) | Étude comparative entre architecture ELM et Backpropagation classique pour les bâtiments[cite: 4]. | Scikit-learn, ELM, Backpropagation, GridSearchCV[cite: 4] |
+| [**Student Management App**](https://github.com/oumniya03/student-management-app) | Application Full Stack de gestion académique avec authentification JWT et validation XSD[cite: 4]. | React, Express, Docker, MongoDB, JWT[cite: 4] |
+
+> 🧭 Explore all my projects [here →](https://github.com/oumniya03?tab=repositories)
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🏅 **Data Scientist Associate** | *DataCamp (2025)*[cite: 3]
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oumniya03&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oumniya03&theme=tokyonight" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oumniya03&layout=compact&theme=tokyonight" width="48%" />
+</div>
 ### 📌 Key Projects
 * **Belgian Law Brain (Agentic RAG):** Orchestrated autonomous agent for a legal advisor tool (Claude Opus 4.7, n8n).
 * **E-commerce Recommendation System:** DevOps/MLOps pipeline for an SVD recommendation model with CI/CD and K8s orchestration.
