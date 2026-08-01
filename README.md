@@ -21,10 +21,10 @@ I'm an AI Engineer with a strong foundation in software development and advanced
 ### 💼 Professional Experience
 
 **AI Engineering Intern | Elavi** *(Feb 2026 - Jun 2026)*
-Designed and deployed a frontline legal advisor (Agentic RAG) integrated into the Flugia platform. Orchestrated an autonomous agent (Claude Opus 4.7, n8n) piloting 9 dynamic tools, ensuring strict compliance with the European AI Act.
+> Designed and deployed a frontline legal advisor (Agentic RAG) integrated into the Flugia platform. Orchestrated an autonomous agent (Claude Opus 4.7, n8n) piloting 9 dynamic tools, ensuring strict compliance with the European AI Act.
 
 **Software Developer Intern | École Polytechnique des Génies** *(Jul 2023 - Aug 2023)*
-Developed a desktop student management application (C#, SQL Server) and automated administrative tasks using Python scripts.
+> Developed a desktop student management application (C#, SQL Server) and automated administrative tasks using Python scripts.
 
 ---
 ## 🧠 Domains of Interest
