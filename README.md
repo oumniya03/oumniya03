@@ -37,9 +37,6 @@ Developed a desktop student management application (C#, SQL Server) and automate
   
   
 ### 🛠️ Tech Stack & Tools
----
-
-## ⚙️ Tech Stack & Skills
 
 | Domain | Technologies |
 |:---:|:---|
@@ -51,14 +48,6 @@ Developed a desktop student management application (C#, SQL Server) and automate
 | 💻 **Prog & Web** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C/C++](https://img.shields.io/badge/C/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/HTML5/CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-00599C?style=for-the-badge) ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge) |
 | 🎨 **Design & Productivity** | ![Merise](https://img.shields.io/badge/Merise-grey?style=for-the-badge) ![UML](https://img.shields.io/badge/UML-Design-grey?style=for-the-badge) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 | 🖥️ **Systems & Platforms** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Virtualization](https://img.shields.io/badge/Virtualisation-121011?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) |
-
----
-
-* **AI & Machine Learning:** Agentic RAG, Deep Learning, Prompt Engineering, NLP, Computer Vision
-* **Frameworks & Libs:** TensorFlow, PyTorch, LangChain, FastAPI, Flask, Scikit-learn
-* **Data & Vector DBs:** Qdrant, Supabase, PostgreSQL, ChromaDB, SQL Server
-* **MLOps & Deployment:** Docker, Kubernetes, MLflow, CI/CD, n8n
-* **Languages:** Python, C#, Java, JavaScript, SQL
 
 ---
 
