@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4F8EF7">Oumniya Moutaouakil</span></h1>
 
+> <p>
+ 🎓 Master's Graduate in <b>Advanced Machine Learning & Multimedia Intelligence</b> at <b>FSDM USMBA</b><br>
+> 💡 Passionate about <b> Everything about AI : Machine Learning & Deep Learning , generative AI and Intelligent Systems</b><br>
+> 🌍 Based in Morocco | 🚀 Transforming AI research into production-ready solutions
+</p>
 > 🎓 Master's Graduate in **Advanced Machine Learning & Multimedia Intelligence** at FSDM USMBA
 > 💡 Passionate about **Agentic AI, RAG Systems, & MLOps**
 > 🌍 Based in Morocco | 🚀 Transforming AI research into production-ready solutions
