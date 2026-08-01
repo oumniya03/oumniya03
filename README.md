@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Oumniya Moutaouakil
 
-> 🎓 Master's Student in **Advanced Machine Learning & Multimedia Intelligence** at FSDM
+> 🎓 Master's Graduate in **Advanced Machine Learning & Multimedia Intelligence** at FSDM
 > 💡 Passionate about **Agentic AI, RAG Systems, & MLOps**
 > 🌍 Based in Morocco | 🚀 Transforming AI research into production-ready solutions
 
@@ -34,9 +34,20 @@ Developed a desktop student management application (C#, SQL Server) and automate
 
 ---
 
-### 📫 Let's Connect!
+### 📌 Key Projects
+* **Belgian Law Brain (Agentic RAG):** Orchestrated autonomous agent for a legal advisor tool (Claude Opus 4.7, n8n).
+* **E-commerce Recommendation System:** DevOps/MLOps pipeline for an SVD recommendation model with CI/CD and K8s orchestration.
+* **Hybrid Automated Pentesting:** Autonomous security audit agent combining Groq/LLaMA and Gymnasium RL.
+* **Multimodal CTR Prediction:** Cascaded optimization model using CLIP for MicroLens-1M dataset.
+
+---
+
+### 📫 Let's Connect & View My Portfolio!
 
 <p align="left">
+  <a href="https://portfolio-xi-eight-pzce8pg2gy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:oumniamoutaouakil@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
