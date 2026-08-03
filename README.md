@@ -90,7 +90,7 @@ I'm an AI Engineer with a strong foundation in software development and advanced
 ### 📫 Let's Connect & View My Portfolio!
 
 <p align="left">
-  <a href="https://portfolio-xi-eight-pzce8pg2gy.vercel.app" target="_blank">
+  <a href="https://portfolio-oumniya-moutaouakil.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:oumniamoutaouakil@gmail.com" target="_blank">
