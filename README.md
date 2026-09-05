@@ -54,17 +54,17 @@ I'm an AI Engineer with a strong foundation in software development and advanced
 
 | 🔹 Project | 🧠 Description | ⚙️ Tech |
 |-------------|----------------|----------|
-| [**O.M. Health AI (Medical RAG)**](https://github.com/oumniya03/rag-mcp-azure.git) | Assistant médical RAG full-stack (Azure/Vercel) exploitant le dataset MedQuAD avec Claude Haiku et intégration MCP. | FastAPI, FAISS, Azure Container Apps, MCP, Claude Haiku |
-| [**Belgian Law Brain (Agentic RAG)**](https://github.com/oumniya03/Belgian-Law-Brain-Agentic-RAG.git) | Conception et déploiement d'un conseiller juridique de première ligne intégré à Flugia. | Claude Opus 4.7, n8n, Qdrant, FastAPI, Supabase |
-| [**Pentest Automatisé Hybride**](https://github.com/oumniya03/pentest-hybrid-llm-rl) | Système de pentesting autonome combinant un LLM pour la stratégie et le RL pour l'exploration. | RL, LLaMA/Groq, Flask, Gymnasium |
-| [**Système de Recommandation E-commerce**](https://github.com/oumniya03/project1-ecommerce-recommendation) | Pipeline DevOps/MLOps complet pour un modèle SVD avec CI/CD automatisé et orchestration K8s. | MLflow, Kubernetes, FastAPI, Docker, Prometheus|
-| [**RAG Q&A Chatbot**](https://github.com/oumniya03/Projet-rag) | Application Full-stack RAG pour interroger des PDF. Pipeline complet : LangChain, FAISS, LLM. | FastAPI, Next.js, LangChain, FAISS, Groq API |
-| [**See For Me (Image Captioning)**](https://github.com/oumniya03/SeeForMe-Image-Captioning) | Application mobile Android pour malvoyants combinant Vision par ordinateur et NLP (VGG-16 + LSTM). | PyTorch, VGG-16, DenseNet-201, LSTM, Android |
-| [**Prédiction CTR Multimodale**](https://github.com/oumniya03/Projet_competition) | Modèle d'optimisation en cascade utilisant CLIP couplé à une architecture Attention + DNN. | PyTorch, CLIP, Attention, DNN |
-| [**Classification Déchets IoT (Edge AI)**](https://github.com/oumniya03/Waste_Classification) | Système de tri automatique avec caméra ESP32-CAM et modèle de classification sur microcontrôleur. | Edge Impulse, ESP32-CAM, Arduino |
-| [**Image Processing App**](https://github.com/oumniya03/image_processing) | Laboratoire interactif d'analyse visuelle en Python intégrant +20 algorithmes. | OpenCV, SciPy, Tkinter, Python |
-| [**Prédiction Efficacité Énergétique**](https://github.com/oumniya03/Prediction-of-Energy-Efficiency-of-Buildings) | Étude comparative entre architecture ELM et Backpropagation classique pour les bâtiments. | Scikit-learn, ELM, Backpropagation, GridSearchCV |
-| [**Student Management App**](https://github.com/oumniya03/student-management-app) | Application Full Stack de gestion académique avec authentification JWT et validation XSD. | React, Express, Docker, MongoDB, JWT |
+| [**O.M. Health AI (Medical RAG)**](https://github.com/oumniya03/rag-mcp-azure.git) | Full-stack RAG medical assistant (Azure/Vercel) leveraging the MedQuAD dataset with Claude Haiku and MCP integration. | FastAPI, FAISS, Azure Container Apps, MCP, Claude Haiku |
+| [**Belgian Law Brain (Agentic RAG)**](https://github.com/oumniya03/Belgian-Law-Brain-Agentic-RAG.git) | Design and deployment of a frontline legal advisor integrated into the Flugia platform. | Claude Opus 4.7, n8n, Qdrant, FastAPI, Supabase |
+| [**Hybrid Automated Pentest**](https://github.com/oumniya03/pentest-hybrid-llm-rl) | Autonomous pentesting system combining an LLM for strategy and RL for exploration. | RL, LLaMA/Groq, Flask, Gymnasium |
+| [**E-commerce Recommendation System**](https://github.com/oumniya03/project1-ecommerce-recommendation) | Comprehensive DevOps/MLOps pipeline for an SVD model with automated CI/CD and Kubernetes orchestration. | MLflow, Kubernetes, FastAPI, Docker, Prometheus|
+| [**RAG Q&A Chatbot**](https://github.com/oumniya03/Projet-rag) | Full-stack RAG application for querying PDFs. Complete pipeline: LangChain, FAISS, LLM. | FastAPI, Next.js, LangChain, FAISS, Groq API |
+| [**See For Me (Image Captioning)**](https://github.com/oumniya03/SeeForMe-Image-Captioning) | Android mobile app for the visually impaired combining Computer Vision and NLP (VGG-16 + LSTM). | PyTorch, VGG-16, DenseNet-201, LSTM, Android |
+| [**Multimodal CTR Prediction**](https://github.com/oumniya03/Projet_competition) | Cascade optimization model using CLIP coupled with an Attention + DNN architecture. | PyTorch, CLIP, Attention, DNN |
+| [**IoT Waste Classification (Edge AI)**](https://github.com/oumniya03/Waste_Classification) | Automatic sorting system using an ESP32-CAM and a classification model deployed on a microcontroller. | Edge Impulse, ESP32-CAM, Arduino |
+| [**Image Processing App**](https://github.com/oumniya03/image_processing) | Interactive visual analysis laboratory in Python integrating 20+ algorithms. | OpenCV, SciPy, Tkinter, Python |
+| [**Energy Efficiency Prediction**](https://github.com/oumniya03/Prediction-of-Energy-Efficiency-of-Buildings) | Comparative study between ELM architecture and classical Backpropagation for buildings. | Scikit-learn, ELM, Backpropagation, GridSearchCV |
+| [**Student Management App**](https://github.com/oumniya03/student-management-app) | Full-stack academic management application with JWT authentication and XSD validation. | React, Express, Docker, MongoDB, JWT |
 
 > 🧭 Explore all my projects [here →](https://github.com/oumniya03?tab=repositories)
 
