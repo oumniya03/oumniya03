@@ -57,6 +57,7 @@ I'm an AI Engineer with a strong foundation in software development and advanced
 
 | 🔹 Project | 🧠 Description | ⚙️ Tech |
 |-------------|----------------|----------|
+| [**Sentiment Classifier (Azure MLOps)**](https://github.com/oumniya03/sentiment-mlops) | End-to-end MLOps pipeline with MLflow tracking, model registry, batch deployment, and data drift monitoring. | Azure ML, MLflow, Scikit-learn, GitHub Actions |
 | [**O.M. Health AI (Medical RAG)**](https://github.com/oumniya03/rag-mcp-azure.git) | Full-stack RAG medical assistant (Azure/Vercel) leveraging the MedQuAD dataset with Claude Haiku and MCP integration. | FastAPI, FAISS, Azure Container Apps, MCP, Claude Haiku |
 | [**Belgian Law Brain (Agentic RAG)**](https://github.com/oumniya03/Belgian-Law-Brain-Agentic-RAG.git) | Design and deployment of a frontline legal advisor integrated into the Flugia platform. | Claude Opus 4.7, n8n, Qdrant, FastAPI, Supabase |
 | [**Hybrid Automated Pentest**](https://github.com/oumniya03/pentest-hybrid-llm-rl) | Autonomous pentesting system combining an LLM for strategy and RL for exploration. | RL, LLaMA/Groq, Flask, Gymnasium |
