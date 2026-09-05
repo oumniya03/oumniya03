@@ -75,18 +75,7 @@ I'm an AI Engineer with a strong foundation in software development and advanced
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=oumniya03&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oumniya03&theme=tokyonight" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumniya03&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
----
 
 ### 📫 Let's Connect & View My Portfolio!
 
